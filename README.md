@@ -12,3 +12,7 @@ You can create a new tab via a dedicated button in the top right of window or by
 Automatically saves tabs upon exit and restores them on the next launch. ensuring seamless continuity.  
 
 > **Note**: Performance may be slowly being a large amount of tabs. Due to CrystalVolume just encapsulate Explorer windows simply.
+
+### Preview
+
+![preview](Design/Preview.png)
